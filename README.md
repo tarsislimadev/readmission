@@ -1,6 +1,6 @@
 # readmission
 
-For managing Redis databases, link PHPMyAdmin.
+For managing Redis databases, like PHPMyAdmin.
 
 ## How to use
 
